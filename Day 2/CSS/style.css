@@ -1,0 +1,26 @@
+h1{
+    color:white;
+    font-size: 70px;
+
+}
+
+
+
+.number-row{
+    margin-top:20px;
+}
+
+.number-left{
+   background-color: red;
+    padding:50px;
+}
+
+.number-center{
+    background-color:blue;
+    padding:50px;
+}
+
+.number-right{
+   background-color:  green;
+    padding:50px;
+}
